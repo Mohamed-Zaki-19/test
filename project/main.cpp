@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello shabab!" << endl;
+    if(6 > 8){
+        cout << "no"<<endl;
+    }
     return 0;
 }
